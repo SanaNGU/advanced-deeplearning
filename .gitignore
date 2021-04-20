@@ -1,5 +1,7 @@
 *.log
 data/
+MNIST/
+project/
 __pycache__
 
 # OSX
