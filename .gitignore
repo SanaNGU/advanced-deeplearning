@@ -3,6 +3,6 @@ data/
 MNIST/
 project/
 __pycache__
-
+hate speech detection project/
 # OSX
 .DS_Store
